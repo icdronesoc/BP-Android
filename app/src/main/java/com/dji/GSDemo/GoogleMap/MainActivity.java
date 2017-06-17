@@ -70,7 +70,7 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
     private final Map<Integer, Marker> mMarkers = new ConcurrentHashMap<Integer, Marker>();
     private Marker droneMarker = null;
 
-    private float altitude = 100.0f;
+    private float altitude = 50.0f;
     private float mSpeed = 10.0f;
 
     private List<Waypoint> waypointList = new ArrayList<>();
@@ -80,6 +80,7 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
     private WaypointMissionOperator instance;
     private WaypointMissionFinishedAction mFinishedAction = WaypointMissionFinishedAction.NO_ACTION;
     private WaypointMissionHeadingMode mHeadingMode = WaypointMissionHeadingMode.AUTO;
+    private boolean reachedCustomer = true;     //set to false
 
     @Override
     protected void onResume(){
@@ -377,6 +378,17 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
                 break;
             }
             case R.id.britishPelican:{
+                DJIDemoApplication.getAircraftInstance().getFlightController().setGoHomeHeightInMeters(50f,new CommonCallbacks.CompletionCallback() {
+                    @Override
+                    public void onResult(DJIError djiError) {
+                    }
+                });
+                DJIDemoApplication.getAircraftInstance().getFlightController().setHomeLocationUsingAircraftCurrentLocation(new CommonCallbacks.CompletionCallback() {
+                    @Override
+                    public void onResult(DJIError djiError) {
+                    }
+                });
+
                 startBritishPelican();
                 break;
             }
@@ -586,8 +598,78 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
         gMap.addMarker(new MarkerOptions().position(shenzhen).title("Marker in Shenzhen"));
         gMap.moveCamera(CameraUpdateFactory.newLatLng(shenzhen));
     }
+
+
+
     private void startBritishPelican() {
+
+        droneTakeOff();
+
+        //receive waypoint
+        LatLng wormwood = new LatLng(51.522429, -0.241169);     //remove me
+
+        //define some initial variables
+
+
+
+
+        //waypoint
+        do {
+            addWaypoint(wormwood);
+            configWayPointMission();
+            uploadWayPointMission();
+            startWaypointMission();
+            waypointList.clear();
+            waypointMissionBuilder.waypointList(waypointList);
+
+        } while(reachedCustomer ==false );
+
+
+
+        stopWaypointMission();
+        //land
+        DJIDemoApplication.getAircraftInstance().getFlightController().startLanding(new CommonCallbacks.CompletionCallback() {
+            @Override
+            public void onResult(DJIError djiError) {
+            }
+        });
+
+        //wait for takeoff to be given
+
+        droneTakeOff();
+        droneGoHome();
+
+
+        reachedCustomer = false;
+    }
+
+
+
+
+
+    private void droneTakeOff() {
         DJIDemoApplication.getAircraftInstance().getFlightController().startTakeoff(new CommonCallbacks.CompletionCallback() {
+            @Override
+            public void onResult(DJIError djiError) {
+            }
+        });
+
+    }
+
+
+
+
+
+    private void droneGoHome() {
+        //go home drone, you're drunk
+        DJIDemoApplication.getAircraftInstance().getFlightController().startGoHome(new CommonCallbacks.CompletionCallback() {
+            @Override
+            public void onResult(DJIError djiError) {
+            }
+        });
+
+        //land
+        DJIDemoApplication.getAircraftInstance().getFlightController().startLanding(new CommonCallbacks.CompletionCallback() {
             @Override
             public void onResult(DJIError djiError) {
             }
