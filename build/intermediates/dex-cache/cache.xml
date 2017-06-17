@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/21b4b274d80390e5810de8192f3dd95d562982c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7428f0d1debdcf1b5792a26146e51a38d992d04d">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b776d65bb3c1be1b1fd3ae9463e254bda672c9a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/a3f179f9e8bd77d70eb2c4debe0b5426bd77bbcd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3c8fcebabb73df25937704f5566bf6c388ea941d">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea3d263180145ae99c16b6277f3dddc2f07fa782/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/64306b898aea63802322dc31f89f9064cccebc57/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_104f1bc3a7c184b8f4ebeea090fab05258ba468d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/767556d992bd0482144fd97d398d2fc14328a884/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="163b095362fd14d682ac311bf672c2fb54de5078">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48499963404c2f1c39a48fdb3a47a994b3ba33bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/8e5ceed01a8707850f375c2e5c2dcce8bcc9bd28/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8ec9ae00d45e758ac5b7a1c5dc0daa8a4b24280f">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea6ec990f78af5ab40fc983184466b169f8ca273/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/1108a0f2469fba27b1c9f26375e0a2718fe2725c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="982031d2aa9652bc955d0b581ec70378c0adfc56">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8b4a276691bbb26ca4489a14b0ca704dfb10044/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/9691e202c16b7cccf9a76d33d417e908c0d85505/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44120508d7240c3e34a05957981a5c3c9b9f61aa">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e403611240c8e2ad0427b3b752377cff69cc395/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/75c0f64c5758031f8fcd601b504921de8b842922/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d2f67fe50e3b58982ef8270107248582af7d5573/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/7029cb1972beb1d755c14c80c9846d29cf048a3a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="21bb89120d84fa29afeb0f9c0ebf415bc3b45a7e">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0859b15d293edb29acdbeae8fb2aaf2dd8ebc47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/daa15def5c55cf20a73b8575fdba01cb522d68d8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="33b5900f82d19fd3dacee518363b249ace77b8f5">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a68bfa0abc2898aa74960358a6458bb04b1bd784/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/7b189f13a254f02650b63f9beb483d0df9c187bf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd7b4a8e01cafa79a0b228b2ee5bd57ae5577444">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_695f9179cb45a27aadbd2e21b9cbbb2d318eb250/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/ff600913aff43b38ef122af90bc6f15bcc69c6ac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7572433ba21aa9e4624c819fa738b2748b82d05">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_166c1f0dffe81a577a1d0cb99e88abbd8b5697c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/df11495560e4a795ee70e2c78d26b01b51826560/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="20ca7888c59f63d439f218a8810c88039f8bc7db">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b68b50effbe4e83555c9e2659c53a210acf4f56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/cb9391e88952f43ebe3654dd8657048bb2e39943/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fa6c324604383981fb74c4cb036d4171ed0a9a02">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_815f9ce65b9be65916b51107e244f8cb864ff2eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/dJISDKLIB/build/intermediates/bundles/default/libs/dji-sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1a8489c30ea553b668e5363e03c50856c64c5ac9">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/8/dji-sdk_714b8e74d18ec62fed191cfa8fa30e7100086591/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/6e92b282e411bff4ef1f12d5def30981e7795300/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e3f200938bb888d83c2da807cb6aee983baae254">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c6a771b1263e1e63e80cc84f1f241995ff5d092/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/57c2cce2be5dacb681686ade2f06e2797c168633/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f80fac9c22b4546a1966a8490e210dff54857df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/4bef2cf46a8997454090af32423cc00e72ff5a63/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ce9432b50a02be101bc491a1b38d3904200bd988">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b205bda2bcdb66fb7add7caee5984b95013ca62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/46235f5fe0ef6cbf64bd488654de855769efa39e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_decb9be1894b25df549ec6a820259543301fa331/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/914b22a806bfc8ebf5e913237511c8f6874f830f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7378806b630886994099d03c369983f2848a609f">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e6a87e74795a95fba2c28627709a1bc5aaeabc00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/7b650b2e88b52b5f3352e9e401c9dc44aaca0493/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="535d4497b5fa5d451e07a043e9e220d5c25ab7c7">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f552c1bf77059a2f1b543716c988ac479f98a1a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/e9b989afc566a9a647cba67e6186fe6e45d79d4f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8ad1b5663f367dac619256d75fb08a98c7baa4f4">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ee4828f3f2d6a183edee87e80f08fd2a9bb7fdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/f76dfe05bdff1d7cc1cd2d7ade85d71aa2f1b091/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="be009dbe07b3a252c8cda07fc948ac713d2f5171">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_55ab478ddee9889af8e0c3a179c00ff6890203ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3cd4cd94c7b554dd26b866cefdc9a16a877c561a">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bd540d815735974c56008b9994d5ae79dbb7d9f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/dJISDKLIB/build/intermediates/bundles/default/libs/rxjava-computation-expressions-0.21.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1998e4f447fbf0194f39a12f3010d1f4f598667f">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/8/rxjava-computation-expressions-0.21.1_3948e453937ec2803966f5283e7e25656af5dfab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/dacc0a144c106bc7218f33568f107a8b75d4b8af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7c39a4b431976abc46d3cf6344c75d06c769cd35">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_266d107137a91c76eb89ed1b0e82183672f10941/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/9ba60d170c8b643ecf09235a99b122c8e1f7c96b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="404f4108b41050173f93836f5b35efdd9525a0ad">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_67715c31b7c892865e80c19ddcd8d23ac21e5b63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/67c7de79445b304574baca1488a3e7fde319dd30/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a03f4d605b0f29222c2ddf8b7896258cb4b92def">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_96b481051a310e50007801ac20da6b002f94d7c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/ef4678c9dd017c57bac883ccc748228b8d1ce08d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6ae920bc3f21d587c50607a00ceb9e31ea0bc90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/8a43031ddab760697c3a8b27078a4e67a02b7f7b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a0712565a784bedd07ada2393c95e0b1e288840f">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab1c0c39946e0ad5d823552f8c167d599973ec65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/dJISDKLIB/build/intermediates/bundles/default/libs/retrofit-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b55150f9b025eebdddb6426bb4e85e673af338a3">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/8/retrofit-2.0.1_dd303f385d7a5a77afe0ef70f8c509f35040f471/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/474bc720e58515f82b2dc2577f32e34c7c6e5215/output/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_2bcd82fe636b26386e62b8df88eb33ce7cf8a38a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/66364d4ad3a1236983d59a79635925d2d4998f47/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b53d61bae49278c0fa202d9066d2e72fc151c1e8">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ca5858bb6f5b4de64665a4b1ea2716fa4e2fa85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/e3786f819b505c34878f63b25b6b468d3e263920/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_078ececa6532ea6acb991c72e0947474245f0cd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/dJISDKLIB/build/intermediates/bundles/default/libs/converter-gson-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="56caaeea09d3e406f6160972ff5d3e6c0e6f139b">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/8/converter-gson-2.0.1_8126636fc16aa637f145042b30b061b413206e60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/2a635ec9627e0be18dd9e7fe34c8b2ffc667c73c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="811202a9098047576814fc2171b56b83b537a8b9">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81fe9ae3d3dd3f95ffbc3f5e1665b760e9b953e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/474bc720e58515f82b2dc2577f32e34c7c6e5215/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e2aa06cacdd01d3ff6bbcbca82f264a9fb016d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/64306b898aea63802322dc31f89f9064cccebc57/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_51fe0f9c34b6a0547a1207eb8dfa92c81555fdf7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/e92a4a7e1388ca6421c2a8fd30bfe36818942276/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0595e77431edaba6793410f9bfa3603c063c58e7">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a94d2134ff27cd48e1a8e4bf2ffcdd55c40f1bd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/e5d1bc2f597f77331081d3d3cc3df084f73ac82e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1ad9438268bfa37e75e270190278dedb780dd9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/dJISDKLIB/build/intermediates/bundles/default/libs/sqlbrite-0.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="80411084d9962ab5b48b274bb4b49e063095535a">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/8/sqlbrite-0.6.2_822435fdd5b33f4e2559c2b22c26e4b1f5eb3792/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/dJISDKLIB/build/intermediates/bundles/default/libs/okio-1.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="58a92147e3365aa0039fc81a31b87f4957e6a555">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/8/okio-1.7.0_dc064863e5692588db0abc00262f5bb745161487/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/8d17125ffb4137ee94a193aff89d531066968f50/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47635a4c8d2e42bbb9c6eff006a59ed2085d324e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/4d264a6aa54f5cc5575fd94c5dead4557ead41af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f315c6b5b99081f16a79c9aaa557328a4644fe63">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d2a30febd6795b6c41f70f1a0b227c81e3d94db3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/f820e2edc92dcb16051f956b91b39af7505c641d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a06eb7761fca120bbb46b34b930a3a3462ba9d7f">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9729a5f9fdd2c0ac9a2b6050266fbe4316018e46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/dJISDKLIB/build/intermediates/bundles/default/libs/rxjava-1.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4f11e8e7dd89f5f87e5d81000582eabb071da91">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/8/rxjava-1.1.2_e7fcbf234d76f69cf1ae74f4bc872c4505ed6c96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/2d181a4f57fe7255788237ee6708eb798bf02c79/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="299e04800d1169b9f3dd04c376c7b266a3594cca">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_593d330d938433da4e310286993a35ef0e21a834/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_ac06da6517732f9ef15c77cc395089280e3d4104/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/f73ba8fb8e56b4afe86333ef8b3cd8b970a1a467/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e791f7f2fbf9ca5b3b576916533f844dfb384024">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54752a393325967f0b2c409ef4a424462af0380e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/dJISDKLIB/build/intermediates/bundles/default/libs/Java-WebSocket-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bc54e68ea5a1410ba9889536ab3100e36d2014aa">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/8/Java-WebSocket-1.3.0_65e9e6eaa49fc2a9afd1eeeac73c8e6b32ba0c7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/fe23aea8dc516c99fbd2fe389d909460411fbd5a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="33203b081101ca6242a4cd746aafe5fc2dd98a34">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8390509ef8fdef4069023b7e6de739843e7f2fc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/fbff1ce56b9cf69f9a9701a7ed53a6c3f681162a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="39261f58509b1a379df041f03da394c29da05395">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b69916fa057a7a593fbdee2e27be86ae6a4259ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/61729fc119f5d2dd7eddffc0ec8773e51e391ca5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_95ceb6b6d7caece4667e2e324aaddfb5f4a966c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/106260dddbbf4797ae4b748c2822dbc8df79bc9f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_536d7842c2b74920c0e9f0b267245613fa443204/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/dJISDKLIB/build/intermediates/bundles/default/libs/dji_eventbus.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="91a5399115cedf41ebd53be7c96e424ac3aed1a8">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/8/dji_eventbus_27a749f42f11dbf54eeea380741aebc025c867ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/dJISDKLIB/build/intermediates/bundles/default/libs/sqlcipher.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="372b3cc280b8ef1d8079ef984aa838b78bfe9aa0">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/8/sqlcipher_b76d0aa9bdbfe5f64607d5db7d7aee3b42155bec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/67f6dfe560ee8ed36687d166ac669cc0ce3de52d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18e52280643effbab30370b073e456d670a0db54">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a9762e5a51820227f42a35e3c4fcd7e6d779d68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/fc5c4ef4e165f643e549ad4c7759117193fafe68/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fbb50f7f89342c915898c9376a67229e2fcee286">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc47903e6ae16f1da77c972cb566cbdf85e0ad87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/7b0b0be8a91c6076abec095b6b69728de78c375d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1dc44c4798cbd79e95e4838a3fdc734c0e3f895f">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0b5d673851231c29d17f4e9e70cb6dc1ea01ccd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/04fa02167b2811decb95c33f5b84caea151d2877/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1f45aa2448bfd4f87e849c52c253e727cc7a671/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/4304d9be7a2c9827272316401d1273dff1599699/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="74694bf98bd1f856cf478bd0c516531801badced">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f6d2497f9de6e5aa363c504e51732e017c9f04a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/1fe2f7250e45c901ed32028e595722c1d332c76e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="08cdd337d1d9247eb915f0ab365624dd7966e7fa">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7499ed6f894f2d1cae383bbc36abd3fef1bd916c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/59182664b6ac28bb29db069ef99922dd9efd701c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f56a68df45e18ce77814db6553fdaa229308f49b">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb336f45966db045111b993f3fca7ad769ea8d15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/ca1994ae9eedeeafccd3654e3dbce7baa03c6829/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5acfd484717d9175c175569a114d46dbeec074ed">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d2638852e3f15d0da098083f411e171158734ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6eb3d518f621d808f2ace1840be0aded066555c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_a916515ba5d32732f7f7acbae316e88e5dce42d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/e8aa687ae90ff88083cc990d3c513b9d74600e1f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d5cdde53c4d3fc007d4e4ab3ffe6bcd968a70e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/dJISDKLIB/build/intermediates/bundles/default/libs/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="03773badcb9e99ad699db657fa0e20cafbf774ef">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/8/okhttp-3.2.0_fd1acdac1301d3c228c5bc634a66c9753c8fd848/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/b452cd4677ee20366c67e4f60aa131539c88f663/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a378adc3106cb3560ab3dfed05f1fda26cff5b49">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c3e770d98bb25cddadcc864fa2bab9e65f73f3f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/dJISDKLIB/build/intermediates/bundles/default/libs/rxandroid-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="92b4c46bf73b1caff27f0ad2b73fcd5730fa37de">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/8/rxandroid-1.1.0_68b198912d203676ca10be23c8c020637a19169e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/b10b41e5eb03faff06920cfb87bfef69907ecbf8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea7c35557444656f27ee693e94d3e61e4f4b02db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/7c3fe5059f23edc7847c5899493e970fa7fe7fad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e91e1f335dc418d0138991a1d5155f0490ab6082">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7cd63f662e96e9a17c1d8e947e81f8fb0495daa9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/dJISDKLIB/build/intermediates/bundles/default/libs/dji_gson.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="729a9cf81838d286b6098dc9c33d264d5db48a26">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/8/dji_gson_a502dc681be5e139b3aedd6f0dc1d695e87039e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/3c6165f5004be4b644ee91df048d607ca32e44f3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12821507d5b593457cbc22e993120be85036a0d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/8ca9552cd3b16a433844aadb506f9e905bb8a615/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7c7c21cc7a45d5c2a57d77f4840d4d4ea3c7604f">
+        <dex dex="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc21d90ef3e7344ed1f533ea9eb3c1484b074eaf/classes.dex" />
+    </item>
+
+</items>
