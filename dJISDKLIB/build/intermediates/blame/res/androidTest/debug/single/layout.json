@@ -1,10 +1,18 @@
 [
     {
-        "merged": "/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/layout/dialog_login.xml",
-        "source": "/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/dJISDKLIB/build/intermediates/bundles/debug/res/layout/dialog_login.xml"
+        "merged": "C:\\Users\\user\\BP-Android\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\log_dialog_view.xml",
+        "source": "C:\\Users\\user\\BP-Android\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\layout\\log_dialog_view.xml"
     },
     {
-        "merged": "/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/layout/log_dialog_view.xml",
-        "source": "/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/dJISDKLIB/build/intermediates/bundles/debug/res/layout/log_dialog_view.xml"
+        "merged": "C:\\root\\Documents\\androidStuff\\AndroidStudioProjects\\dji\\Android-GSDemo-GoogleMap-master\\GSDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_login.xml",
+        "source": "C:\\root\\Documents\\androidStuff\\AndroidStudioProjects\\dji\\Android-GSDemo-GoogleMap-master\\GSDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\BP-Android\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_login.xml",
+        "source": "C:\\Users\\user\\BP-Android\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_login.xml"
+    },
+    {
+        "merged": "C:\\root\\Documents\\androidStuff\\AndroidStudioProjects\\dji\\Android-GSDemo-GoogleMap-master\\GSDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\log_dialog_view.xml",
+        "source": "C:\\root\\Documents\\androidStuff\\AndroidStudioProjects\\dji\\Android-GSDemo-GoogleMap-master\\GSDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\layout\\log_dialog_view.xml"
     }
 ]

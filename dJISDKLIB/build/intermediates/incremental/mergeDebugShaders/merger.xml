@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/dJISDKLIB/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/dJISDKLIB/src/debug/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\user\BP-Android\dJISDKLIB\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\user\BP-Android\dJISDKLIB\src\debug\shaders"/></dataSet></merger>

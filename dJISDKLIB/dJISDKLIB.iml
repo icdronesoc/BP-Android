@@ -109,5 +109,6 @@
     <orderEntry type="library" exported="" name="sqlbrite-0.6.2" level="project" />
     <orderEntry type="library" exported="" name="sqlcipher" level="project" />
     <orderEntry type="library" exported="" name="dji-sdk" level="project" />
+    <orderEntry type="library" exported="" name="android-android-22" level="project" />
   </component>
 </module>

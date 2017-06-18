@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/xml/accessory_filter.xml",
-        "source": "/root/Documents/androidStuff/AndroidStudioProjects/dji/Android-GSDemo-GoogleMap-master/GSDemo/dJISDKLIB/build/intermediates/bundles/debug/res/xml/accessory_filter.xml"
+        "merged": "C:\\root\\Documents\\androidStuff\\AndroidStudioProjects\\dji\\Android-GSDemo-GoogleMap-master\\GSDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\accessory_filter.xml",
+        "source": "C:\\root\\Documents\\androidStuff\\AndroidStudioProjects\\dji\\Android-GSDemo-GoogleMap-master\\GSDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\xml\\accessory_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\BP-Android\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\accessory_filter.xml",
+        "source": "C:\\Users\\user\\BP-Android\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\xml\\accessory_filter.xml"
     }
 ]
