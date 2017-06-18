@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "1074776657620",
+    "firebase_url": "https://british-pelican.firebaseio.com",
+    "project_id": "british-pelican",
+    "storage_bucket": "british-pelican.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074776657620:android:f984a83238cd9d69",
+        "android_client_info": {
+          "package_name": "com.newapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074776657620-sbkumk6pt36ci1f4048r7qn5c1ur4nc2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1074776657620-7f9ng0512lft8f2kaqmn6qe2rmrapa4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOwCqk2CBwGylR8umVoPvVKbNcXCH2ThA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074776657620:android:e4f708b25c9403bd",
+        "android_client_info": {
+          "package_name": "com.test.testbird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074776657620-dvc2nrlbhg1gi6lhdrho3dmcd7p8h481.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.testbird",
+            "certificate_hash": "31363739ee632b94bf2869e28c3d4910ea237ca0"
+          }
+        },
+        {
+          "client_id": "1074776657620-sbkumk6pt36ci1f4048r7qn5c1ur4nc2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1074776657620-7f9ng0512lft8f2kaqmn6qe2rmrapa4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOwCqk2CBwGylR8umVoPvVKbNcXCH2ThA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074776657620-sbkumk6pt36ci1f4048r7qn5c1ur4nc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074776657620:android:4b70d0198c2423ce",
+        "android_client_info": {
+          "package_name": "com.dji.GSDemo.GoogleMap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074776657620-2pnjtds0tt4sfhebcalq9pmva18q0vsm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dji.GSDemo.GoogleMap",
+            "certificate_hash": "31363739ee632b94bf2869e28c3d4910ea237ca0"
+          }
+        },
+        {
+          "client_id": "1074776657620-sbkumk6pt36ci1f4048r7qn5c1ur4nc2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1074776657620-7f9ng0512lft8f2kaqmn6qe2rmrapa4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOwCqk2CBwGylR8umVoPvVKbNcXCH2ThA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074776657620-sbkumk6pt36ci1f4048r7qn5c1ur4nc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
